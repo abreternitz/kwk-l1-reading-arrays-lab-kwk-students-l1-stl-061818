@@ -10,4 +10,4 @@ books = ["Everything, everything",
 disney.push("pooh","tiger")
 disney.delete_at(2)
 
-puts disney
+puts disney.include?("Cinderella")
