@@ -8,5 +8,5 @@ books = ["Everything, everything",
           "Carry On"]
 
 disney.push("pooh","tiger")
-
-puts disney.length
+disney.delete(2)
+puts disney
