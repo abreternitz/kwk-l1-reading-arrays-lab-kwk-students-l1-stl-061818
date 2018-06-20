@@ -9,5 +9,4 @@ books = ["Everything, everything",
           "Red Queen",
           "Carry On"]
 puts books
-
-puts ages.first + ages[1]
+puts books[0]+books.last
