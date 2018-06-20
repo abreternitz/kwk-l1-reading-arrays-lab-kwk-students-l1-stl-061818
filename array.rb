@@ -9,4 +9,4 @@ books = ["Everything, everything",
 
 disney.push("pooh","tiger")
 
-puts disney
+puts disney.length
