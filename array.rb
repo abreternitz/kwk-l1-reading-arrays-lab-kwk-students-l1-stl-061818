@@ -7,4 +7,4 @@
 
 student_list = ["Sam","Sonali","Isabella","amy"]
     
-puts student_list
+puts student_list[0]
