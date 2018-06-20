@@ -9,7 +9,7 @@ books = ["Everything, everything",
 
 disney.push("pooh","tiger")
 disney.delete_at(2)
-ages.insert(2,12)
+ages.unshift(13)
 puts books.take(2)
 puts ages
 puts disney.length
