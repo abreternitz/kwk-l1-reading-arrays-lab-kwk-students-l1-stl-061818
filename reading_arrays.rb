@@ -9,7 +9,7 @@ student_names = [
 
 def first_student_by_index
   # Write a solution that returns the first student in the array student_names
-  return student_names[0]
+  puts student_names[0]
 end
 
 def fourth_student_by_index
