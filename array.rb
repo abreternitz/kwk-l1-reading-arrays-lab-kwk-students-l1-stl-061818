@@ -8,3 +8,4 @@ books = ["Everything, everything",
           "Ready Player One",
           "Red Queen",
           "Carry On"]
+puts books
