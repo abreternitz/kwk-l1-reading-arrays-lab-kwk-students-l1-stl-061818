@@ -8,3 +8,5 @@ books = ["Everything, everything",
           "Carry On"]
 
 books.push("pooh","tiger")
+
+puts books
