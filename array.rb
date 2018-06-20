@@ -10,4 +10,5 @@ books = ["Everything, everything",
 disney.push("pooh","tiger")
 disney.delete_at(2)
 
+puts books.take(2)
 puts disney.length
