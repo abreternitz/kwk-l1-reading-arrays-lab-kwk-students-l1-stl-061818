@@ -7,6 +7,6 @@ books = ["Everything, everything",
           "Red Queen",
           "Carry On"]
 
-books.push("pooh","tiger")
+disney.push("pooh","tiger")
 
-puts books
+puts disney
