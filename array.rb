@@ -9,4 +9,5 @@ books = ["Everything, everything",
           "Red Queen",
           "Carry On"]
 puts books
-puts books[0]+books.last
+
+puts books[0].upcase
