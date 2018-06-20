@@ -8,5 +8,6 @@ books = ["Everything, everything",
           "Carry On"]
 
 disney.push("pooh","tiger")
-disney.delete(2)
+disney.delete_at(2)
+
 puts disney
