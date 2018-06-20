@@ -5,6 +5,6 @@
 
 # puts "in this class we have a student named sonali #{student_four}"
 
-student_list = ["Ross","Chandler","Joey","amy"]
+friends = ["Ross","Chandler","Joey","Monica","Phoebe","Rachel"]
     
-puts student_list[0]
+puts friends[0]
