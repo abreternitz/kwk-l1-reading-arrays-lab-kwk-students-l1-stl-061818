@@ -31,3 +31,5 @@ end
 def first_second_and_third_students
   puts student_names[0,1,2]
 end
+
+
