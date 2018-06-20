@@ -9,3 +9,5 @@ books = ["Everything, everything",
           "Red Queen",
           "Carry On"]
 puts books
+
+puts ages.first + ages[1]
